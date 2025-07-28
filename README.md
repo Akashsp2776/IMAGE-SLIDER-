@@ -1,1 +1,3 @@
-# project name : image slider
+# PROJECT NAME:IMAGE SLIDER
+
+## LANGUAGE USED:HTML
